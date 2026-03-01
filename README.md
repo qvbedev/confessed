@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/✨-confessed.rf.gd-brightgreen?style=for-the-badge" alt="confessed badge">
+  <img src="https://img.shields.io/badge/✨-confessed-brightgreen?style=for-the-badge" alt="confessed badge">
   <br><br>
   <h1 align="center">🤫 confessed</h1>
   <p align="center"><i>say it. send it. forget it.</i></p>
