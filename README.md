@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/✨-confessed.rf.gd-brightgreen?style=for-the-badge" alt="confessed badge">
+  <img src="https://img.shields.io/badge/✨z-confessed.rf.gd-brightgreen?style=for-the-badge" alt="confessed badge">
   <br><br>
   <h1 align="center">🤫 confessed</h1>
   <p align="center"><i>say it. send it. forget it.</i></p>
@@ -34,11 +34,12 @@ just you, your truth, and a community that gets it.
 
 ---
 
-## 🎮 how to play (aka use it)
+## 🎮 how to play nah jk (aka use it)
 
 ```text
 1. tap → https://confessed.rf.gd
-2. type what's on your mind 🧠
-3. hit send ✈️
-4. breathe. you did it.
-5. (optional) send the link to a friend & see what they confess 👀
+2. signup/login your account
+3. type what's on your mind 🧠
+4. hit send ✈️
+5. breathe. you did it.
+6. (optional) send the link to a friend & see what they confess 👀
